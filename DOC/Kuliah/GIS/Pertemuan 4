@@ -1,0 +1,14 @@
+Background
+
+Spatial data is data that implements the source of the information space is very numerous and widespread, data processing can be done using many applications such as QGIS and others. Spatial data itself can be found in natural earth, this time I will be using python programming language to read spatial data
+
+
+Discussion
+
+1. Process Preparing spatial data, you can retrieve spatial data in both cultural and natural physical earth.
+
+2. Spatial Data Processing, processing or retrieving spatial data must use tools or tools like QGIS, but this time I'll use the command prompt. Then follow the steps below using python.
+
+Conclusion
+
+you can process the data with python to manage data shape and you can specify the data.
